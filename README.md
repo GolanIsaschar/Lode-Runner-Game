@@ -6,4 +6,4 @@ Implemention of the classic Lode Runner game written in C++.
 The code uses class inheritance, polymorphism and the SFML library.
 
 ## Video
-[Link to Video] (https://www.youtube.com/watch?v=gQL_aeRduKE)
+https://www.youtube.com/watch?v=gQL_aeRduKE
